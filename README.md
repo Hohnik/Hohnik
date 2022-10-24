@@ -10,14 +10,15 @@
 ⚡ Fun fact: I had a drastic career change from Educator to Computer Scientist
 
 What I like, learn, try and can
-![typetura](https://img.shields.io/badge/typeset%20with-typetura-129681.svg "typetura")
-![css](/src/of/image.jpg "HTML") 
-![alt text](/src/of/image.jpg "CSS") 
-![alt text](/src/of/image.jpg "TailwindCSS") 
-![alt text](/src/of/image.jpg "JavaScript") 
-![alt text](/src/of/image.jpg "TypeScript") 
-![alt text](/src/of/image.jpg "jQuery") 
-![alt text](/src/of/image.jpg "React") 
-![alt text](https://cdn.freebiesupply.com/logos/large/2x/jest-logo-svg-vector.svg "Jest") 
-![alt text](https://nerdysoft.com/wp-content/uploads/2021/11/java-14-1.svg "Java") 
-![alt text](https://banner2.cleanpng.com/20180519/zqq/kisspng-php-server-side-scripting-yii-web-application-scri-5b00d886698cb9.3580042815267820864324.jpg "PHP") 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50"/>
+<img src="https://img.shields.io/badge/typeset%20with-typetura-129681.svg" alt="Typetura" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" alt="Jest" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="50"/>
+
