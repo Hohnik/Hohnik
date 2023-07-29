@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate on a usefull open source project  
 🤔 I’m searching help with a design for my website niklashohn.com, feel free to contact me!  
 💬 Ask me about EVERYTHING, so we can both learn something from each other  
-📫 How to reach me: niklas-hohn@t-online.de  
+📫 How to reach me: mail@niklashohn.com  
 😄 Pronouns: he/his  
 ⚡ Fun fact: I had a drastic career change from Child educator to Computer Scientist  
 
