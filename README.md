@@ -1,8 +1,8 @@
 <h1>✌️ Hi there, my name is Niklas ✌️</h1>
 
-🔭 I’m currently working on my own portfolio  
+🔭 I’m currently not working on a sideproject
 
-🌱 I’m currently learning React and Typescript  
+🌱 I’m currently learning Python
 
 👯 I’m looking to collaborate on a usefull open source project  
 
@@ -16,7 +16,7 @@
 
 ⚡ Fun fact: I had a drastic career change from Child educator to Computer Scientist  
 
-What I like, learn, try and can from 1 to 10
+What I like, learn and try from 1 to 10
 
 
 
