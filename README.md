@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python
 
-👯 I’m looking to collaborate on a usefull open source project  
+👯 I’m looking to collaborate on a usefull open source project
 
 🤔 I’m searching help with a design for my website niklashohn.com, feel free to contact me!  
 
@@ -12,13 +12,11 @@
 
 📫 How to reach me: mail@niklashohn.com  
 
-😄 Pronouns: he/his  
-
 ⚡ Fun fact: I had a drastic career change from Child educator to Computer Scientist  
 
-What I like, learn and try from 1 to 10
 
 
+____SKILLS____
 
 |                             HTML                             |                             CSS                              |                              JS                              |                           TAILWIND                           |                              TS                              |                            REACT                             |                            JQUERY                            |                             PHP                              |                             JAVA                             |                            MySQL                             |                            PYTHON                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
