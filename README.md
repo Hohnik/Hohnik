@@ -1,4 +1,4 @@
-<h1>Hi Niklas here ✌️</h1>
+<h1>Hi there, Niklas here ✌️</h1>
 
 ![Java](https://img.shields.io/badge/Java-C03030?style=flat-square&logo=CoffeeScript&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/Git-E2432D?style=flat-square&logo=Git&logoColor=white&logoSize=auto)
