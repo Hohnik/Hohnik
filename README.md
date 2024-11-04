@@ -1,6 +1,7 @@
 <h1>✌️ Hi there, my name is Niklas ✌️</h1>
 
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=React&logoColor=white&logoSize=auto&color=%2303C4E8)
+![React](https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=React&logoColor=white&logoSize=auto)
 
 
 
