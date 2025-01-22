@@ -1,10 +1,10 @@
 <h1>Hi there, Niklas here ✌️</h1>
 
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-C03030?style=flat-square&logo=scikit-learn&logoColor=white&logoSize=auto)
 ![Java](https://img.shields.io/badge/Java-C03030?style=flat-square&logo=CoffeeScript&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/Git-E2432D?style=flat-square&logo=Git&logoColor=white&logoSize=auto)
 ![PyTorch](https://img.shields.io/badge/PyTorch-D9442A?style=flat-square&logo=PyTorch&logoColor=white&logoSize=auto)
 ![HTML5](https://img.shields.io/badge/HTML5-D44428?style=flat-square&logo=HTML5&logoColor=white&logoSize=auto)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-C03030?style=flat-square&logo=scikit-learn&logoColor=white&logoSize=auto)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B8A920?style=flat-square&logo=JavaScript&logoColor=white&logoSize=auto)
 ![Neovim](https://img.shields.io/badge/Neovim-4B8A36?style=flat-square&logo=Neovim&logoColor=white&logoSize=auto)
 ![Conda](https://img.shields.io/badge/Conda-3D8F2D?style=flat-square&logo=Anaconda&logoColor=white&logoSize=auto)
