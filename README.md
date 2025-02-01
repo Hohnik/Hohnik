@@ -7,7 +7,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-D44428?style=flat-square&logo=HTML5&logoColor=white&logoSize=auto)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B8A920?style=flat-square&logo=JavaScript&logoColor=white&logoSize=auto)
 ![Neovim](https://img.shields.io/badge/Neovim-4B8A36?style=flat-square&logo=Neovim&logoColor=white&logoSize=auto)
-![Conda](https://img.shields.io/badge/Conda-3D8F2D?style=flat-square&logo=Anaconda&logoColor=white&logoSize=auto)
 ![NumPy](https://img.shields.io/badge/NumPy-1A4C5E?style=flat-square&logo=NumPy&logoColor=white&logoSize=auto)
 ![SQLite](https://img.shields.io/badge/SQLite-00425A?style=flat-square&logo=SQLite&logoColor=white&logoSize=auto)
 ![CSS3](https://img.shields.io/badge/CSS3-1365A0?style=flat-square&logo=css3&logoColor=white&logoSize=auto)
